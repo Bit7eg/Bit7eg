@@ -9,7 +9,8 @@
 - 🌱 I’m currently learning OpenGL and OpenCL
 - 🤔 I’m looking for help with party for tabletop role playing games
 - 💬 Ask me about my dream
-- 📫 How to reach me: [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bit7eg@gmail.com) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Bit7egg) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/375128346821918731)
+- 📫 How to reach me:   
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bit7eg@gmail.com) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Bit7egg) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/375128346821918731)
 - ⚡ Fun fact: Some people say that sometimes I'm like a cat 😼
 
 ## About me
